@@ -1,0 +1,26 @@
+[
+  {
+    "package": "simmer",
+    "url": "https://github.com/r-simmer/simmer"
+  },
+  {
+    "package": "simmer.plot",
+    "url": "https://github.com/r-simmer/simmer.plot"
+  },
+  {
+    "package": "simmer.bricks",
+    "url": "https://github.com/r-simmer/simmer.bricks"
+  },
+  {
+    "package": "simmer.optim",
+    "url": "https://github.com/r-simmer/simmer.optim"
+  },
+  {
+    "package": "simmer.json",
+    "url": "https://github.com/r-simmer/simmer.json"
+  },
+  {
+    "package": "simmer.mon",
+    "url": "https://github.com/r-simmer/simmer.mon"
+  }
+]
